@@ -21,5 +21,4 @@ int main(int argc, char *args[])
 	SDL_DestroyWindow(instance.window);
 	SDL_Quit();
 	return (0);
-	
 }

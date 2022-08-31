@@ -57,4 +57,3 @@ int poll_events()
 	}
 	return (0);
 }
-

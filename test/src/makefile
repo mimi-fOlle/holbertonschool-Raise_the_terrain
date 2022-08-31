@@ -15,4 +15,4 @@ fclean: clean oclean
 
 re: oclean all
 
-gcc *.c -o prog $(sdl2-config --cflags --libs)
+/* gcc *.c -o prog $(sdl2-config --cflags --libs) */

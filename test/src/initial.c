@@ -31,4 +31,3 @@ int initial(int argc, char *args[])
 	}
 	return (0);
 }
-
