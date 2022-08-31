@@ -14,5 +14,6 @@ int init_instance(SDL_Instance *);
 void draw_stuff(SDL_Instance instance);
 int poll_events();
 int initial(int argc, char *args[]);
+void SDL_ExitWithError(const char *message);
 
 #endif
